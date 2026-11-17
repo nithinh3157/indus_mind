@@ -1,0 +1,8 @@
+{
+  "name": "INDUSMIND",
+  "description": "Intelligent Multi-Industry Manufacturing Management & Predictive Analytics Platform unifying AutoForge (Automobile) and DairyFlow (Dairy) operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
